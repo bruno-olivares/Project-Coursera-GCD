@@ -3,8 +3,9 @@
 The file *tidy_data.txt* contains:
 
 Two factors:
--subject: Volunter ID
--activity: volunteer movement
+
+- subject: Volunter ID
+- activity: volunteer movement
 
 And the following variables:
 
